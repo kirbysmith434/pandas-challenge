@@ -1,0 +1,13 @@
+PyCitySchools Data Analysis Report 
+by Kirby Smith
+September 29, 2023
+
+
+In this challenge, I was asked to analyze code that would serve in "helping the school board and mayor make strategic decisions regarding future school budgets and priorities". By looking at data related to student passing rates, specifically in the categories of math and reading, I was able to find correlation in the data compared to school spending and school size. The school board and mayor would benefit from investing more time and attention to what charter schools are getting "right" and what can be done to increase the amount of spending/resources at the lower performing schools in the data analysis.
+
+
+Although a lot of factors can go into a schools passing rates, the data did indicate that there was a positive correlation with the budget and passing rate data. When the school had an increase in budget spending, they would also show increased passing percentage rates for students. The opposite is also true, that the less money a school has, the lower the passing percentage rates are. 
+
+The data also indicated that the charter schools have a higher passing percentage rate than the district students. This could be an area for the school board to focus on and potentially imitate what the charter schools are doing to support their students better. 
+
+In regards to school size, there was an inverse relationship between school size and performance. The larger the school, the lower the passing rates. The school board could research exactly what is happening when a school goes beyond the "medium" category that is so negatively impacting the student passing rates. 
